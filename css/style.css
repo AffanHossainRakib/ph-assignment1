@@ -94,7 +94,6 @@
 
 .statistics-section {
   background-color: rgba(78, 71, 255, 0.1);
-  width: 1140px;
   margin: 116px 159px 0 141px;
   border-radius: 24px;
 }
@@ -184,7 +183,7 @@
 }
 
 .feedback-img {
-  width: 40;
+  width: 40px;
   height: 40px;
   border-radius: 50px;
 }

@@ -27,8 +27,8 @@
 }
 
 .button-primary:hover {
-  background-color: wheat;
-  color: blueviolet
+  background-color: #7774dc;
+  color: white;
 }
 
 /* header style */
